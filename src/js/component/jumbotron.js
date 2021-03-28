@@ -5,11 +5,9 @@ export function Jumbotron() {
 	return (
 		<div className="jumbotron jumbotron-fluid">
 			<div className="container">
-				<h1 className="display-4">A Warm Welcome!</h1>
+				<h1 className="display-4">Costa Rica... Pura vida!!!</h1>
 				<p className="lead">
-					This is a simple hero unit, a simple jumbotron-style
-					component for calling extra attention to featured content or
-					information.
+					Bienvenido al mundo de las aves exoticas de Costa Rica.
 				</p>
 
 				<p className="lead">
